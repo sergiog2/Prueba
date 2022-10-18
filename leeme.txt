@@ -1,0 +1,2 @@
+construir imagen : docker build -t <container> . 
+ejecutar: docker run -v <path>:/app/ <container>
